@@ -1,0 +1,5 @@
+.card4 .avatar { /*give this priority vs width 100%*/
+	border-radius: 50%;
+	width: 80px;
+	height: 80px;
+}

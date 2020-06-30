@@ -1,0 +1,59 @@
+body> {
+	background-color: rgb(240, 240, 240);
+	font-family: 'Poppins', sans-serif; /* sans serif is backup default font */
+}
+
+h1, h2 { /* selecting both h1 + h2 */
+	color: 264653; /* from coolors. com copied */
+}
+
+h2 {
+	color:63946;
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none; /* no underline for button */
+	color: 63946;
+
+}
+a {
+	"hoover /* ??? check with Audrey */
+}
+
+img {
+ size: 150px;
+}
+div {
+	width: 500px;
+	margin: 0 auto 0 auto; /* auto margin but first set width otherwise no ration */
+}
+
+.card-white {
+	background-color: #003049;
+	box-shadow: 4px 4px 12px rgb(50 50 50 0 1)
+	border-radius: 40px;
+	padding: 15px; 
+	margin: 40px, auto; 
+	text-align: center; /* content is put in centre */
+}
+
+.container { /* give whole website get into central container */
+
+}
+
+.btn-pink {
+background-color: yellow;
+color: blue;
+padding: 12px, 20px;
+border-radius: 4px;
+}
+
+.list-inline {
+	list-style: none;
+	padding: 0; /* centre the social media button */
+}
+
+.list-inline {
+
+}

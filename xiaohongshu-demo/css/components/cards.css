@@ -1,0 +1,130 @@
+.card1 {
+	color: #e5e5e5;
+	border-radius: 4px;
+	display: flex; /* create flexbox */
+	justify-content: space-around;
+	background-size: cover;
+	background-position: center;
+	align-items: center;
+	padding: 140px 0px;
+	box-shadow: 40px solid black;
+}
+
+.card2  {
+	border-radius: 4px;
+	margin-top: 40px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 80px 0px;
+	box-shadow: 40px solid black;
+	background-color: #f8e16c !important;
+}
+
+.card2 img { /*need to give image in card extra width */
+	width: 80%;
+}
+
+.card3  {
+	font-size: 20px;
+	color: white;
+	font-style: cursive;
+	background-color: #f0f3bd !important;
+	border-radius: 4px;
+	display: flex; /* create flexbox */
+	justify-content: space-around;
+	align-items: center;
+	background-size: cover;
+	background-position: center;
+	align-items: center;
+	padding: 80px 0px;
+	box-shadow: 40px solid black;
+}
+
+.card3 img { /*need to give image in card extra width */
+	width: 100%;
+}
+
+.card4  {
+	color: white;
+	border-radius: 4px;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+	padding: 80px 0px;
+	box-shadow: 40px solid black;
+	background-color: #28666e !important;
+
+}
+
+.card4 img { /*need to give image in card extra width */
+	width: 100%;
+	border-radius: 20px;
+	background-color: #28666e !important;
+}
+.card4-social {
+	background-color: #28666e !important;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 40px 20px 20px 20px;
+	border: 2px solid black;
+	box-shadow: 40px solid black !important;
+
+}
+
+.card5 {
+	padding: 80px 0px;
+	border-radius: 4px;
+	box-shadow: 40px solid black;
+	background-color: #59cd90 !important;
+}
+
+.card5 img { /*need to give image in card extra width */
+	margin: 20px;
+	border-radius: 20px;
+	width: 80%;
+	image-rendering: 4px solid black;
+	padding: 80px 0px;
+	background-color: #ffd6ba !important;
+}
+
+.card6 img { /*need to give image in card extra width */
+	border-radius: 4px;
+	width: 80%;
+	image-rendering: 4px solid black;
+}
+
+
+.card2-details {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	margin-right: 40px;
+	margin-left: 40px;
+
+}
+
+.card2-likes {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	}
+
+
+.card6 { /*need to give image in card extra width */
+	background-color: #f5dd90 !important;
+	padding: 80px 0;
+}
+
+.card7 {
+
+	color: #e5e5e5;
+	border-radius: 4px;
+	display: flex; /* create flexbox */
+	justify-content: space-around;
+	background-size: cover;
+	background-position: center;
+	align-items: center;
+	padding: 140px 0px;
+	box-shadow: 40px solid black;
+}

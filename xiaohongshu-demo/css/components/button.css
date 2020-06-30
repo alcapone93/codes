@@ -1,0 +1,18 @@
+
+.btn-tequila:hover {
+	opacity: 20;
+	color: black;
+	background: red;
+	font-weight: bold;
+}
+.btn-tequila {
+	color: grey;
+	border: 2px lighter #f1faee ;
+	background: #f4f1de;
+	padding: 20px 20px ;
+	border-radius: 20px;
+	font-size: 10px; 
+	font-weight: bold;
+	box-shadow: 5px 5px 0px grey;
+	text-decoration: none;
+}
