@@ -1,0 +1,65 @@
+body {
+	background-color: white;
+	font-family: 'Poppins', sans-serif; /* sans serif is backup default font */
+}
+
+h1, h2, h3, h4 { /* selecting both h1 + h2 */
+	font-size: 16;
+	color: #fcbf49; /* from coolors. com copied */
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none; /* no underline for button */
+	color: #f1faee;
+
+}
+
+img {
+ width: 150px;
+}
+
+div {
+	width: 500px;
+	margin: 0 auto 0 auto; /* auto margin but first set width otherwise no ration */
+}
+
+.card-blue {
+	background-color: #8d99ae;
+	box-shadow: 4px 4px 12px rgb(50 50 50 0 1)
+	border-radius: 40px;
+	padding: 15px; 
+	margin: 40px, auto; 
+	text-align: center; /* content is put in centre */
+}
+
+.container { /* give whole website get into central container */
+width: 700px;
+}
+
+.btn-red {
+background-color: red;
+color: white;
+padding: 12px, 20px;
+border-radius: 4px;
+}
+
+.btn-red:hover {
+	color: green;
+	background-color: yellow; /* ??? check with Audrey */
+}
+
+
+.list-inline {
+	list-style: none;
+	padding: 0px; /* centre the social media button */
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.image-circle {
+	border-radius: 50%; /* round shape pic */
+}
